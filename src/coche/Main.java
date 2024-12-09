@@ -3,7 +3,7 @@ package coche;
 
 /**
  * esto lo he metido para probar
- *
+ *primer paso
  * @author Juan Reyes
  */
 public class Main {
